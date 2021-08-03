@@ -1,0 +1,2 @@
+# TripletAlgorithm
+Тестовое задание
